@@ -1,0 +1,5 @@
+train1.jpg	water
+train2.jpg	tree
+train3.jpg	grass
+train4.jpg	sun
+
